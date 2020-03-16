@@ -1,0 +1,4 @@
+* {margin:0;padding:0;box-sizing:border-box;overflow:auto;}
+body {max-width:360px;border:1px solid black;height:auto;}
+nav {background-color:#757575;display:flex;}
+#logonav {width:150px;margin-top:10px}
